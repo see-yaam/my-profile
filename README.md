@@ -11,7 +11,9 @@
 🔸 Currently pursuing a Bachelor's degree in Computer Science and Engineering at United International University.<br>
 🔸 Currently Learning: C Programming, Git and GitHub.<br>
 
+🎉 Thanks for visiting my repository! <br>
+
 📩 Contact Me<br>
 📧 Email: bhuyanseyam4.gmail.com<br>
 🔗 GitHub Profile: https://github.com/see-yaam <br>
-🎉 Thanks for visiting my repository! <br>
+
